@@ -44,6 +44,9 @@ Setting the `FLASK_ENV` variable to `development` will detect file changes and r
 
 Setting the `FLASK_APP` variable to `app` directs flask to use  the `app.py` file to find the application. 
 
+## Deployment
+
+Casting Agency app is deployed on Heroku: https://capstone-ayko.herokuapp.com/ 
 ## Authentication : Roles, Permissions
 - **Casting Assistant** - Permissons:
   - `get:movies`
